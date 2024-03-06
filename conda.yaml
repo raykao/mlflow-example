@@ -4,9 +4,9 @@ channels:
 dependencies:
   - python==3.11.7
   - gxx_linux-64==11.2.0
-  - numpy>=1.14.3
-  - pandas>=1.0.0
-  - scikit-learn>0.19.1
+  - numpy>=1.19.5
+  - pandas>=2.2.1
+  - scikit-learn>=1.4.1
   - pip
   - pip:
     - mlflow
